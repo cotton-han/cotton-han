@@ -42,6 +42,6 @@
   <img alt="Notion" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/>
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </p>
- -->
-<img alt="follow" src="https://img.shields.io/github/followers/yeji9175.svg?style=social&label=Follow&maxAge=2592000" />
+
+<img alt="follow" src="https://img.shields.io/github/followers/cotton-han.svg?style=social&label=Follow&maxAge=2592000" />
 
