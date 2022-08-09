@@ -1,6 +1,6 @@
 ## 👋🏻 Hi there  
 
-- 👩🏻‍💼   Junior Front-End Developer
+- 👩🏻‍💼   Web Frontend Developer
 - 💻   Usually using Javascript language for programmming
 
 <br>
