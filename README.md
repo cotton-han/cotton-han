@@ -2,6 +2,7 @@
 
 - 👩🏻‍💼   Web Frontend Developer
 - 💻   Usually using Javascript language for programmming
+- 📱   I'm interested in learning Flutter.
 
 <br>
 
