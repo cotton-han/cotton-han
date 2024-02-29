@@ -2,7 +2,7 @@
 
 - 👩🏻‍💼   Web Frontend Developer
 - 💻   Usually using Typescript language for programmming
-- 📱   I'm interested in learning Flutter.
+
 
 <br>
 
